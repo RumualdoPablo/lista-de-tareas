@@ -1,7 +1,3 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Funcionalidad
 
 Es una lista de tareas simple creada con React, permite al usuario anotar actividades pendientes y una vez que las completó, marcarlas como realizadas.
